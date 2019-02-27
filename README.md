@@ -4,7 +4,7 @@ README
   >https://caniuse.com/#search=replacestate
 * IE에서도 브라우저의 history를 다룰 수 있는 오픈소스를 fork하였음.
 * 사용법은 해당 GitHub 참고.
->https://github.com/devote/HTML5-History-API
+  >https://github.com/devote/HTML5-History-API
 
 ### 추가된 파일
 #### history.ielte7_custom.js
